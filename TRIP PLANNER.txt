@@ -1,0 +1,171 @@
+User name:bandu
+Departure city: CHENNAI
+Departure city: DELHI
+Mode of transport: Airplane
+Travel bill:Rs 4250
+Return bill:Rs 2800
+Hotel bill:Rs 6750
+Total bill:Rs 13800
+-----------------------
+User name:bandu
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Airplane
+Travel bill:Rs 3400
+Return bill:Rs 3500
+Hotel bill:Rs 6750
+Total bill:Rs 13650
+-----------------------
+User name:bandu
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 4800
+Return bill:Rs 3500
+Hotel bill:Rs 10625
+Total bill:Rs 18925
+-----------------------
+User name:bandu
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 4800
+Return bill:Rs 3500
+Hotel bill:Rs 10625
+Total bill:Rs 18925
+-----------------------
+User name:m
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:n
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:m
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:N
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:M
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:L
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:B
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:B
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 4800
+Return bill:Rs 3500
+Hotel bill:Rs 10625
+Total bill:Rs 18925
+-----------------------
+User name:B
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:B
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 5100
+Return bill:Rs 3500
+Hotel bill:Rs 11250
+Total bill:Rs 19850
+-----------------------
+User name:Shubham
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Train
+Travel bill:Rs 2125
+Return bill:Rs 2800
+Hotel bill:Rs 5400
+Total bill:Rs 10325
+-----------------------
+User name:BANDU
+Departure city: DELHI
+Departure city: MUMBAI
+Mode of transport: Airplane
+Travel bill:Rs 4800
+Return bill:Rs 0
+Hotel bill:Rs 8500
+Total bill:Rs 13300
+-----------------------
+User name:mukul
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Airplane
+Travel bill:Rs 3400
+Return bill:Rs 3500
+Hotel bill:Rs 4995
+Total bill:Rs 11895
+-----------------------
+User name:shubham
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Airplane
+Travel bill:Rs 3400
+Return bill:Rs 3500
+Hotel bill:Rs 8325
+Total bill:Rs 15225
+-----------------------
+User name:raj
+Departure city: DELHI
+Departure city: CHENNAI
+Mode of transport: Airplane
+Travel bill:Rs 3400
+Return bill:Rs 3500
+Hotel bill:Rs 8325
+Total bill:Rs 15225
+-----------------------
