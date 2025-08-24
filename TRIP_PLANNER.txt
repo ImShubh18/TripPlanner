@@ -1,0 +1,8 @@
+User: Shubham
+From: DELHI To: CHENNAI
+Mode: Train
+Travel Bill: Rs 2000.0
+Return Bill: Rs 1960.0
+Hotel Bill: Rs 6375.0
+Total: Rs 10335.0
+
